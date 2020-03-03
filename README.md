@@ -8,7 +8,7 @@
 создастся папка target, а вней war архив с приложением
 
 для настройки оркужения воспользуемся [docker](https://docs.docker.com/install/) и 
-[docker-compose]https://docs.docker.com/compose/install/
+[docker-compose](https://docs.docker.com/compose/install/)
 
 выполняем комманду
 
