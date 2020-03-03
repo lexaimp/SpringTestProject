@@ -5,9 +5,9 @@
   ```bash
   mvn package
   ```
-Создастся папка target, а вней war архив с приложением
+создастся папка target, а вней war архив с приложением
 
-Для настройки оркужения воспользуемся [docker](https://docs.docker.com/install/) и [docker-compose]https://docs.docker.com/compose/install/
+для настройки оркужения воспользуемся [docker](https://docs.docker.com/install/) и [docker-compose]https://docs.docker.com/compose/install/
 
 выполняем комманду
 
@@ -24,7 +24,7 @@
   * 8080 - tomcat
   * 8081 - adminer
 
-Для остановки и удаления контейнеров выполните
+для остановки и удаления контейнеров выполните
   ```bash
   docker-compose -f docker-compose.yml up -d
   docker system prune -a -f
