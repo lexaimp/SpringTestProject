@@ -27,6 +27,6 @@
 
 для остановки и удаления контейнеров выполните
   ```bash
-  docker-compose -f docker-compose.yml up -d
+  docker-compose -f docker-compose.yml down
   docker system prune -a -f
   ```
