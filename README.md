@@ -1,5 +1,5 @@
 # SpringTestProject
-Для запуска проекта необходимо собрать его с помощью [maven](https://www.apache-maven.ru/install.html)
+Для запуска проекта необходимо собрать его с помощью [maven](https://maven.apache.org/install.html)
 
 в консоли, переходим в директорию проекта и выполняем команду
   ```bash
